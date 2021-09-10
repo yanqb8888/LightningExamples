@@ -6,7 +6,7 @@
 public class CircularProgressController {     
     
     /**
-     * This class is used to return as JSON Object
+     * This class is used to return as JSON Object1
      **/
     public class WrapperJSON{
         public Integer total {get;set;}
